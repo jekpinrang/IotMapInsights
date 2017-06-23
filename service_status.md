@@ -2,7 +2,7 @@
 
 copyright:
   years: 2016, 2017
-lastupdated: "2017-03-08"
+lastupdated: "2017-06-23"
 ---
 
 {:new_window: target="_blank"}
@@ -13,15 +13,15 @@ lastupdated: "2017-03-08"
 
 # Service status
 {: #service_status}
+The [IBM Watson IoT Service Health Dashboard ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://status.internetofthings.ibmcloud.com/servicetype/solutions) provides information about the current status of {{site.data.keyword.iot_full}} and other Watson IoT services on {{site.data.keyword.Bluemix_notm}}.
 
-The [IBM Watson IoT Service Health Dashboard ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://status.internetofthings.ibmcloud.com) provides information about the current status of {{site.data.keyword.iot_full}} and other Watson IoT services on {{site.data.keyword.Bluemix_notm}}.
 {:shortdesc}
 
 ## Service availability and updates
 {: #service_up}
-To find out about the status and any upcoming planned service maintenance updates for the {{site.data.keyword.iotmapinsights_short}} service APIs on {{site.data.keyword.Bluemix_notm}}, go to the following service status page and click **Solutions**.
+To find out about the current availability and any upcoming planned service maintenance updates for the  {{site.data.keyword.iotmapinsights_short}} service, go to the following page:
 
-[http://status.internetofthings.ibmcloud.com/ ![External link icon](../../icons/launch-glyph.svg "External link icon")](http://status.internetofthings.ibmcloud.com/)
+[https://status.internetofthings.ibmcloud.com/servicetype/solutions ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://status.internetofthings.ibmcloud.com/servicetype/solutions)
 
 ## News on Twitter
 {: #twitter_feed}
