@@ -2,7 +2,7 @@
 
 copyright:
   years: 2016, 2017
-lastupdated: "2017-06-23"
+lastupdated: "2017-10-19"
 ---
 
 {:new_window: target="_blank"}
@@ -19,7 +19,7 @@ The [IBM Watson IoT Service Health Dashboard ![External link icon](../../icons/l
 
 ## Service availability and updates
 {: #service_up}
-To find out about the current availability and any upcoming planned service maintenance updates for the  {{site.data.keyword.iotmapinsights_short}} service, go to the following page:
+To find out about the current availability and any upcoming planned service maintenance updates for the {{site.data.keyword.iotmapinsights_short}} service, go to the following page:
 
 [https://status.internetofthings.ibmcloud.com/servicetype/solutions ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://status.internetofthings.ibmcloud.com/servicetype/solutions)
 

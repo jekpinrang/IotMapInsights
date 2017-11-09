@@ -2,7 +2,7 @@
 
 copyright:
   years: 2016, 2017
-lastupdated: "2017-04-13"
+lastupdated: "2017-10-19"
 ---
 
 {:shortdesc: .shortdesc}
@@ -15,7 +15,7 @@ lastupdated: "2017-04-13"
 # Getting started with Context Mapping
 {: #iotdriverinsights_index}
 
-{{site.data.keyword.iotmapinsights_full}} is a service on {{site.data.keyword.Bluemix}} that you can use to enable geospatial functions, such as map matching and shortest path search for global road networks, in your applications. Use the powerful capabilities of {{site.data.keyword.iotmapinsights_short}} to build smart automotive solutions.
+{{site.data.keyword.iotmapinsights_full}} is a service on {{site.data.keyword.Bluemix_notm}} that you can use to enable geospatial functions, such as map matching and shortest path search for global road networks, in your applications. Use the powerful capabilities of {{site.data.keyword.iotmapinsights_short}} to build smart automotive solutions.
 {:shortdesc}
 
 ## Features
@@ -33,13 +33,13 @@ The following features are available by using the {{site.data.keyword.iotmapinsi
 ## Before you begin
 {: #byb}
 
-1. When you add an instance of the service from the [{{site.data.keyword.Bluemix_notm}} catalog ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://console.ng.bluemix.net/catalog/services/iot-automotive/){: new_window}, ensure that it is not bound to an app and that you make a note of the automatically generated tenant ID, user name, and password values. You need these values later to access the service by using the   {{site.data.keyword.iotmapinsights_short}} API.
+1. When you add an instance of the service from the [{{site.data.keyword.Bluemix_notm}} catalog ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://console.ng.bluemix.net/catalog/services/iot-automotive/){: new_window}, ensure that your instance is not already bound to an app. Make a note of the automatically generated tenant ID, user name, and password values. You need these values later to access the service by using the {{site.data.keyword.iotmapinsights_short}} API.
 
 2. Familiarize yourself with [OpenStreetMap ![External link icon](../../icons/launch-glyph.svg "External link icon")](http://www.openstreetmap.org/){: new_window}.  
 
- The {{site.data.keyword.iotmapinsights_short}} service uses the road network data, in WGS84 coordinates, which is extracted from [OpenStreetMap ![External link icon](../../icons/launch-glyph.svg "External link icon")](http://www.openstreetmap.org/){: new_window}. Only the roads that a car can travel on are used for analysis.  
+The {{site.data.keyword.iotmapinsights_short}} service uses the road network data, in WGS84 coordinates, which is extracted from [OpenStreetMap ![External link icon](../../icons/launch-glyph.svg "External link icon")](http://www.openstreetmap.org/){: new_window}. Only the roads that a car can travel on are used for analysis.  
 
- The following map regions are supported:
+The following map regions are supported:
 
 |Region|Map ID|
 |:---|:---|
