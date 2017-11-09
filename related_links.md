@@ -2,7 +2,7 @@
 
 copyright:
   years: 2016, 2017
-lastupdated: "2017-04-13"
+lastupdated: "2017-10-18"
 
 ---
 
@@ -24,7 +24,7 @@ lastupdated: "2017-04-13"
 * [Getting started with {{site.data.keyword.iot_full}} ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://www.ng.bluemix.net/docs/services/IoT/index.html){:new_window}
 * [dW Answers on IBM developerWorks ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://developer.ibm.com/answers/topics/iot-context-mapping){:new_window}
 * [Stack Overflow ![External link icon](../../icons/launch-glyph.svg "External link icon")](http://stackoverflow.com/questions/tagged/iot-context-mapping){:new_window}
-* [What's new in Bluemix Services ![External link icon](../../icons/launch-glyph.svg "External link icon")](http://www.ng.bluemix.net/docs/whatsnew/index.html#services_category){:new_window}
+* [What's new in {{site.data.keyword.Bluemix}} ![External link icon](../../icons/launch-glyph.svg "External link icon")](http://www.ng.bluemix.net/docs/whatsnew/index.html#services_category){:new_window}
 * [OpenStreetMap ![External link icon](../../icons/launch-glyph.svg "External link icon")](http://www.openstreetmap.org/){:new_window}
 * [&copy; OpenStreetMap contributors ![External link icon](../../icons/launch-glyph.svg "External link icon")](http://www.openstreetmap.org/copyright){:new_window}
 * [Open Data Commons Open Database License (ODbL) ![External link icon](../../icons/launch-glyph.svg "External link icon")](http://opendatacommons.org/licenses/odbl/){:new_window}
