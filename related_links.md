@@ -2,7 +2,7 @@
 
 copyright:
   years: 2016, 2017
-lastupdated: "2017-10-18"
+lastupdated: "2017-11-14"
 
 ---
 
@@ -22,6 +22,7 @@ lastupdated: "2017-10-18"
 * [Getting started with {{site.data.keyword.iot4auto_short}}  ![External link icon](../../icons/launch-glyph.svg "External link icon")](../IoTAutomotive/index.html){:new_window}
 * [Getting started with {{site.data.keyword.iotdriverinsights_short}} ![External link icon](../../icons/launch-glyph.svg "External link icon")](../IotDriverInsights/index.html){:new_window}
 * [Getting started with {{site.data.keyword.iot_full}} ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://www.ng.bluemix.net/docs/services/IoT/index.html){:new_window}
+* [The IBM IoT for Automotive SaaS offering documentation in IBM Knowledge Center ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://www.ibm.com/support/knowledgecenter/SSNQ4V/iot-automotive/kc_welcome.html){:new_window}
 * [dW Answers on IBM developerWorks ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://developer.ibm.com/answers/topics/iot-context-mapping){:new_window}
 * [Stack Overflow ![External link icon](../../icons/launch-glyph.svg "External link icon")](http://stackoverflow.com/questions/tagged/iot-context-mapping){:new_window}
 * [What's new in {{site.data.keyword.Bluemix}} ![External link icon](../../icons/launch-glyph.svg "External link icon")](http://www.ng.bluemix.net/docs/whatsnew/index.html#services_category){:new_window}

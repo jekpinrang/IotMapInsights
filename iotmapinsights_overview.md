@@ -2,7 +2,7 @@
 
 copyright:
   years: 2016, 2017
-lastupdated: "2017-10-19"
+lastupdated: "2017-11-14"
 ---
 
 {:new_window: target="_blank"}
@@ -82,3 +82,8 @@ The route search REST API interface of the {{site.data.keyword.iotmapinsights_sh
 {: #link_search}
 
 When an event occurs on a road, it might affect various road links. You can use REST APIs to search for affected links and to also find road links where cars might reach the event. The search considers the topology of the road link network, not just the distance from cars to the event.
+
+## Private dedicated SaaS offering on IBM Cloud
+{: #private}
+
+The information in this content collection applies to the {{site.data.keyword.iotmapinsights_short}} service on {{site.data.keyword.Bluemix}}. For information about the private dedicated {{site.data.keyword.iot4auto_short}} SaaS offering on IBM Cloud, which includes all of the functions and features of the  {{site.data.keyword.iotmapinsights_short}} service, see the documentation that is in [IBM Knowledge Center](https://www.ibm.com/support/knowledgecenter/SSNQ4V/iot-automotive/kc_welcome.html).
