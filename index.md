@@ -2,7 +2,7 @@
 
 copyright:
   years: 2016, 2017
-lastupdated: "2017-10-19"
+lastupdated: "2017-11-14"
 ---
 
 {:shortdesc: .shortdesc}
@@ -99,4 +99,9 @@ Experience the capabilities of {{site.data.keyword.iotmapinsights_short}} and ot
 
 ## Service availability and updates
 {: #service_up}
-To find out about the status and any upcoming planned service maintenance updates for the {{site.data.keyword.iotmapinsights_short}} API services on {{site.data.keyword.Bluemix_notm}}, go to the [IBM Watson IoT Service Health Dashboard ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://status.internetofthings.ibmcloud.com).
+To find out about the status and any upcoming planned service maintenance updates for the {{site.data.keyword.iotmapinsights_short}} REST API services on {{site.data.keyword.Bluemix_notm}}, go to the [IBM Watson IoT Service Health Dashboard ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://status.internetofthings.ibmcloud.com).
+
+## Private dedicated SaaS offering on IBM Cloud
+{: #private}
+
+The information in this content collection applies to the {{site.data.keyword.iotmapinsights_short}} service on {{site.data.keyword.Bluemix}}. For information about the private dedicated {{site.data.keyword.iot4auto_short}} SaaS offering on IBM Cloud, which includes all of the functions and features of the  {{site.data.keyword.iotmapinsights_short}} service, see the documentation that is in [IBM Knowledge Center](https://www.ibm.com/support/knowledgecenter/SSNQ4V/iot-automotive/kc_welcome.html).
